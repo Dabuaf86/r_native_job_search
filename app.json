@@ -5,6 +5,17 @@
       "bundler": "metro"
     },
     "name": "reactnative_job_search_app",
-    "slug": "reactnative_job_search_app"
+    "slug": "reactnative_job_search_app",
+    "extra": {
+      "eas": {
+        "projectId": "e21d2e58-dbda-4645-9904-a1fd1a40bfc6"
+      }
+    },
+    "android": {
+      "package": "com.dabuaf86.reactnative_job_search_app"
+    },
+    "ios": {
+      "bundleIdentifier": "com.dabuaf86.reactnative-job-search-app"
+    }
   }
 }
